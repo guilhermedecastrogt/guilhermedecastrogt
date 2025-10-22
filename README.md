@@ -9,7 +9,7 @@ I'm a full-stack developer who loves building web applications fast, smooth, mod
 
 Take a look at some of my notable projects:
 <!--
-- [Name](https://): Description.
+- [Whatsapp Bulk Sender]([https://](https://github.com/guilhermedecastrogt/whatsapp-bulk-sender)): It’s a modern web application with a dark-themed frontend (built with React + TypeScript) and a backend powered by FastAPI + Python. It enables you to send messages via WhatsApp to multiple phone numbers by either pasting them manually or uploading a CSV/Excel file. .
   -->
 
 ## Skills
