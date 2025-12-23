@@ -10,6 +10,7 @@ I'm a full-stack developer who loves building web applications fast, smooth, mod
 Take a look at some of my notable projects:
 
 - [Whatsapp Bulk Sender](https://github.com/guilhermedecastrogt/whatsapp-bulk-sender): It’s a modern web application with a dark-themed frontend (built with React + TypeScript) and a backend powered by FastAPI + Python. It enables you to send messages via WhatsApp to multiple phone numbers by either pasting them manually or uploading a CSV/Excel file. .
+- [Inter Bank API](https://github.com/guilhermedecastrogt/inter-bank-api-dotnet): This is an open-source project that provides a .NET 8 Web API to integrate with Banco Inter's Banking API v2. It allows retrieving account balance and statements.
 
 ## Skills
 
