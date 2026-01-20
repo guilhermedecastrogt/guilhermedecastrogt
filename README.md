@@ -1,98 +1,250 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#0EA5E9;">Guilherme de Castro</span></h1>
-<h3 align="center">🚀 Full-Stack Engineer | TypeScript • .NET • Next.js • DevOps</h3>
-<h4 align="center">Open for Work Opportunities • Eligible to Work in the EU 🇪🇺</h4>
+# <div align="center">ðŸ‘‹ Hey, I'm Guilherme de Castro</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation"/>
-</div>
+  
+### ðŸš€ Full-Stack Engineer | TypeScript â€¢ .NET â€¢ Next.js â€¢ React
+### ðŸ’¼ Open for work & Eligible to work in the EU
 
----
-
-## 🧠 About Me
-
-I'm a **Full-Stack Software Engineer** passionate about crafting scalable, production-grade web applications with **TypeScript, React, Next.js, and .NET**.  
-I love building **AI-powered tools, automation systems**, and **SaaS products** that make businesses run smoother.
-
-With a strong sense of ownership, I design systems from **architecture and CI/CD pipelines to deployment and observability**. I believe in clean code, maintainability, and making complex problems simple.
-
-🌍 **Currently expanding my career internationally** and open to remote or on-site roles in the EU.  
-
----
-
-## ⚙️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Core Technologies
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
-
-### 🧩 Backend, DB & API
-![MySQL](https://img.shields.io/badge/MySQL-005F91?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=fff)
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
-
-### 🐳 DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff)
+![Profile views](https://komarev.com/ghpvc/?username=guilhermedecastrogt&color=0891b2&style=flat-square)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedecastro-/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guilhermedecastrogt)
+[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermecastro1000@gmail.com)
 
 </div>
 
 ---
 
-## 💼 Experience Highlights
+## ðŸŽ¯ Who Am I?
 
-### **Full-Stack & DevOps Engineer — Aguia Diesel (Mar 2025 - Present)**
-- Delivered end-to-end systems for e-commerce and internal operations.  
-- Managed **CI/CD**, monitored production with **Docker & Linux**, and maintained clean, scalable codebases.  
+I'm a **full-stack software engineer** with a strong ownership mindset and **2+ years of professional experience** building production-grade, scalable systems. I thrive on clean code, system design, and reliabilityâ€”crafting solutions that users love and systems that last.
 
-### **Full-Stack Developer (Part-Time) — Sliftio (Jun 2025 - Present)**
-- Built full-stack features with **Next.js**, **.NET**, **EF Core**, and **Dockerized** deployments.  
-- Implemented authentication (JWT/OpenID), caching, and observability pipelines.
+Currently, I'm **engineering solutions at scale** across modern tech stacks, from **React/Next.js frontends** to **.NET backend services**, with deep expertise in **DevOps, CI/CD, and cloud infrastructure**. I'm passionate about **delivering impact quickly** while maintaining the highest standards of code quality and observability.
 
-### **.NET Developer — Sliftio (Dec 2023 - Aug 2025)**
-- Designed high-performance APIs using **Clean Architecture + DDD**.  
-- Automated CI/CD and handled **Linux + Nginx deployments** for production environments.
+My sweet spot? **Taking complex problems, architecting elegant solutions, and shipping them fast.**
 
 ---
 
-## 🌟 Featured Projects
-
-- 🔹 [**WhatsApp Bulk Sender**](https://github.com/guilhermedecastrogt/whatsapp-bulk-sender) — Bulk messaging web app using React + Python backend.  
-- 🔹 [**Banco Inter API (.NET 8)**](https://github.com/guilhermedecastrogt/inter-bank-api-dotnet) — Secure Open Banking integration with OAuth2 & mTLS.  
-- 🔹 [**Artistique Casting API**](https://github.com/guilhermedecastrogt/ArtistiqueCastingAPI) — Casting management platform powered by .NET 8 Web API.  
-- 🔹 [**Empregos Goiânia e Região**](https://github.com/guilhermedecastrogt) — SSR job platform migrated from WordPress; real-time feed, filters, and CI/CD pipelines.
-
----
-
-## 📊 GitHub Stats
+## ðŸ’ª Core Competencies
 
 <div align="center">
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedecastrogt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedecastrogt&layout=compact&theme=tokyonight&hide_border=true)
+### Frontend & Full-Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & APIs
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B35?style=flat-square&logo=swagger&logoColor=white)
+
+### Databases & ORMs
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Design & Architecture
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-green?style=flat-square)
+![Domain-Driven Design](https://img.shields.io/badge/-DDD-blue?style=flat-square)
+![System Design](https://img.shields.io/badge/-System%20Design-purple?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 🌍 Get in Touch
+## ðŸ¢ Work Experience
 
-I'm open to new collaborations, freelance projects, and international opportunities. Let’s build something powerful together.
+### ðŸ’¼ **Mid-Level Software Engineer** | Ãguia Diesel *(Mar 2025 - Present)*
 
-📧 **Email:** [guilhermecastro1000@gmail.com](mailto:guilhermecastro1000@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/guilhermedecastro-/](https://www.linkedin.com/in/guilhermedecastro-/)  
-🌐 **Portfolio:** *Coming soon*  
+Building production systems for an e-commerce platform and internal business tools.
+
+**What I Own:**
+- **Full-stack feature delivery** across frontend (Next.js/React), backend (Node.js APIs), and infrastructure
+- **E-commerce platform evolution** â€” features, performance optimization, reliability improvements
+- **Database architecture** â€” designing schemas, implementing efficient queries, migrations
+- **CI/CD pipelines & deployments** â€” GitHub Actions, Docker, Linux environment automation
+- **Real-time monitoring & incident response** â€” ensuring system health and quick issue resolution
+
+**Tech Stack:** TypeScript, Next.js, React, Node.js, MySQL, Docker, Linux, CI/CD
+
+---
+
+### ðŸ’¼ **Full-Stack Developer** | Sliftio *(Jun 2025 - Present - Part-time)*
+
+Developing end-to-end features across a modern tech stack.
+
+**Key Responsibilities:**
+- **Frontend** â€” Next.js (SSR/SSG/ISR), React components, responsive UI with modern patterns
+- **Backend** â€” .NET APIs, Entity Framework Core, RESTful design, authentication (JWT/OpenID)
+- **Data** â€” SQL Server & MySQL, database design, query optimization, safe migrations
+- **Quality & Observability** â€” Unit/integration tests, structured logging (Serilog), APM integration
+- **Deployment** â€” Docker, GitHub Actions, Azure DevOps, production Linux environments
+
+**Tech Stack:** TypeScript, Next.js, React, .NET, SQL Server, MySQL, Docker, GitHub Actions, Azure DevOps
+
+---
+
+### ðŸ’¼ **.NET Developer** | Sliftio *(Dec 2023 - Aug 2025)*
+
+Built backend services and APIs using modern .NET architecture.
+
+**Achievements:**
+- Implemented **Clean Architecture & DDD** patterns for scalable, maintainable systems
+- Developed **high-performance APIs** with Entity Framework Core, proper indexing, and query optimization
+- Deployed on **Linux (Ubuntu)** with Docker, Nginx reverse proxy, HTTPS, and systemd
+- Implemented **comprehensive monitoring** with OpenTelemetry and APM
+- Collaborated on **code quality** through rigorous reviews and technical refinement
+
+**Tech Stack:** .NET, ASP.NET Core, C#, Entity Framework, SQL Server, MySQL, Docker, Nginx, Redis
+
+---
+
+### ðŸ“š **Software Programming Instructor** | My Robot School *(Jan 2023 - Aug 2023)*
+
+Taught fundamental programming to beginners and intermediate students.
+
+- C++ fundamentals (variables, control flow, OOP, memory management)
+- Problem-solving and debugging techniques
+- Adapted teaching for different learning styles
+
+---
+
+## ðŸš€ Featured Projects
+
+### ðŸŽ“ **Student Portal - My First Real Project**
+A comprehensive platform for a music school with personalized student access.
+
+**Features:** SSR architecture, real-time chat, events calendar, financial dashboard, study materials  
+**Tech:** ASP.NET Core, React, MySQL, REST APIs  
+**Impact:** First full-stack project; learned end-to-end system ownership
+
+---
+
+### ðŸ¦ **Banco Inter Open Banking API** 
+Foundation for integrating Banco Inter's v2 API with secure, production-ready architecture.
+
+**Highlights:**
+- Secure integration with **mTLS + OAuth2**
+- **Clean Architecture** with clear separation of concerns
+- Docker-ready for immediate deployment
+- Handles banking data with proper security practices
+
+**Tech:** .NET 8, Clean Architecture, Docker, OAuth2, mTLS
+
+---
+
+### ðŸ’¼ **Empregos Goiania e RegiÃ£o** 
+Migrated a job board from WordPress to a high-performance, mobile-first platform.
+
+**Features:**
+- Infinite-scroll feed with real-time filtering
+- SSR for SEO performance
+- Admin CRUD for job management
+- Automated CI/CD pipeline
+
+**Tech:** Next.js, React, Node.js, MySQL, GitHub Actions
+
+---
+
+### ðŸ’¬ **WhatsApp Bulk Sender**
+Web application for sending WhatsApp messages at scale.
+
+**Features:**
+- Manual input or CSV/Excel batch uploads
+- Real-time status feedback
+- Input validation
+- Responsive design
+
+**Tech:** React, TypeScript, Tailwind CSS, FastAPI, Python
+
+---
+
+### ðŸ“‹ **Todo CRUD - Architecture First Demo**
+Showcasing production-level architecture patterns in a simple application.
+
+**Highlights:**
+- Clean boundaries and repository pattern
+- Server actions for performance
+- Input validation and error handling
+- Demonstrates scalability principles
+
+**Tech:** Next.js, React, TypeScript, Server Actions
+
+---
+
+### ðŸŽ¨ **Artistique Casting API**
+RESTful API for casting management workflows.
+
+**Tech:** .NET 8, ASP.NET Core, REST API Design
+
+---
+
+## ðŸŽ“ Continuous Learning
+
+I'm deeply invested in staying at the cutting edge of technology:
+
+- **AI & LLMs** â€” Exploring DeepSeek, local LLM deployment, AI-powered development tools
+- **System Design** â€” Mastering scalable architecture patterns and microservices
+- **Performance Optimization** â€” Database tuning, query analysis, APM & monitoring
+- **Cloud & DevOps** â€” AWS, containerization strategies, advanced CI/CD
+- **Technical Communication** â€” Writing clear documentation and presenting complex ideas simply
+
+---
+
+## ðŸŽ¯ What I'm Looking For
+
+I'm **open for work opportunities** and **eligible to work in the EU** (STEM visa pathway for 2026, targeting Dublin, Ireland). I'm seeking:
+
+âœ… **Challenging technical roles** â€” Full-stack, backend-heavy, or infrastructure-focused  
+âœ… **High-growth companies** â€” Where I can own systems end-to-end  
+âœ… **Remote-friendly environments** â€” With collaborative, async-first communication  
+âœ… **Learning-focused teams** â€” That value clean code and system design  
+âœ… **Impact-driven work** â€” Building products that matter  
+
+---
+
+## ðŸ“Š GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
-  <h4>Thanks for visiting! 🌟</h4>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedecastrogt&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedecastrogt&theme=tokyonight&layout=compact)
+
+</div>
+
+---
+
+## ðŸ”— Let's Connect
+
+I'm always interested in **collaboration, technical discussions, and exciting opportunities**. Reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedecastro-/)
+[![Gmail](https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecastro1000@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Check%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermedecastrogt)
+
+</div>
+
+---
+
+<div align="center">
+
+### ðŸŒŸ **Let's build something amazing together!**
+
+*Last Updated: January 2026*
+
 </div>
