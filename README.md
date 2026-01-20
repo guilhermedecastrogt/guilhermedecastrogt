@@ -147,7 +147,7 @@ Integration layer for casting management workflows.
 
 ## 🌍 Relocation & Work Authorization
 
-- **EU Eligible:** Planning relocation to **Dublin, Ireland** (2026 STEM visa pathway)
+- **EU Eligible:** Relocating to **Dublin, Ireland**
 - **Remote-First:** Open to remote positions within European time zones
 - **Availability:** Immediate start for the right opportunity
 
