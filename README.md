@@ -55,7 +55,7 @@ I thrive in **fast-paced, high-responsibility environments**, collaborating with
 ## 💼 Professional Experience
 
 ### 🔹 Mid-Level Software Engineer (Full Stack & DevOps) — **Aguia Diesel** (Mar 2025 – Present)
-**Full-time | Goiânia, BR**
+**Remote | Goiânia, BR**
 
 End-to-end ownership of **internal systems** and **e-commerce platform**:
 - Build features across frontend (Next.js/React), backend (Node.js/TypeScript), and databases (MySQL)
@@ -81,7 +81,7 @@ Full-stack development with **Next.js + .NET**:
 ---
 
 ### 🔹 .NET Developer (Full-time) — **Sliftio** (Dec 2023 – Aug 2024)
-**Goiânia, BR**
+**Remote | Goiânia, BR**
 
 Backend ownership with **.NET Web APIs**:
 - Developed features following **Clean Architecture** and **DDD principles**
