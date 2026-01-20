@@ -43,7 +43,7 @@ I thrive in **fast-paced, high-responsibility environments**, collaborating with
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind&perline=6" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,microservices,py&perline=6" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,sql,py&perline=6" />
 
 ### DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,azure&perline=6" />
