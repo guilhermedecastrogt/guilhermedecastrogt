@@ -138,7 +138,7 @@ Integration layer for casting management workflows.
 
 <div align="center">
 
-<img src="https://github-terminal-readme.nexflare.com.br/api/stats/guilhermedecastrogt?theme=githubdark&customstack=true&stacks=c,cplusplus" />
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/guilhermedecastrogt?theme=githubdark&customstack=true&stacks=csharp,c#,dotnet,mysql,react,nodejs,typescript,docker,cplusplus" />
 
 </div>
 
