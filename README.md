@@ -168,3 +168,5 @@ Integration layer for casting management workflows.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:6366f1,100:0ea5e9" />
 </div>
+
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/guilhermedecastrogt?theme=githubdark&customstack=true&stacks=c,cplusplus" />
