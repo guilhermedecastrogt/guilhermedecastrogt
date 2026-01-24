@@ -138,8 +138,7 @@ Integration layer for casting management workflows.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermedecastrogt&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedecastrogt&layout=compact&theme=tokyonight&langs_count=8" />
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/guilhermedecastrogt?theme=githubdark&customstack=true&stacks=c,cplusplus" />
 
 </div>
 
@@ -168,5 +167,3 @@ Integration layer for casting management workflows.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:6366f1,100:0ea5e9" />
 </div>
-
-<img src="https://github-terminal-readme.nexflare.com.br/api/stats/guilhermedecastrogt?theme=githubdark&customstack=true&stacks=c,cplusplus" />
