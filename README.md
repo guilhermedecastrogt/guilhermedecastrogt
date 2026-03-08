@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/🇪🇺%20EU%20Eligible-Yes-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-Immediately-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20Location-Goiás%2C%20BR%20→%20Dublin-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Dublin-6366f1?style=for-the-badge" />
 </p>
 
 </div>
